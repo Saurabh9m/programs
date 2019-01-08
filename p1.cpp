@@ -6,4 +6,5 @@ int main()
 	cout << "welcome" << endl;
 	cout << "thank you" << endl;
 	cout << "nice" << endl;
+	cout << "merging is done" <<endl;
 }
